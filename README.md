@@ -34,3 +34,11 @@ A real-time temperature monitoring system built with Arduino Uno and a thermisto
 - Sensor calibration and signal processing
 - Hardware debugging and troubleshooting
 - Technical documentation
+
+## Project Photo
+Enviromental Monitor 
+[IMG_3504.pdf](https://github.com/user-attachments/files/30437547/IMG_3504.pdf)
+[IMG_3503.pdf](https://github.com/user-attachments/files/30437541/IMG_3503.pdf)
+[IMG_3502.pdf](https://github.com/user-attachments/files/30437535/IMG_3502.pdf)
+
+
